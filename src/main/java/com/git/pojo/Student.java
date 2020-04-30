@@ -1,8 +1,9 @@
+
 package com.git.pojo;
 
 public class Student {
-   private String name;
-   private Integer age;
+   private String name;//名字
+   private Integer age;//年龄
 public Student() {
 	super();
 	// TODO Auto-generated constructor stub
